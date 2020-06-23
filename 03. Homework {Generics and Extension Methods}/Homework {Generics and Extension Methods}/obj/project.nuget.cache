@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0mlmjja1xMd0zKMEkGUCainfr3VbpNRv08cpD2P0eAtR3ZO1G/hSMWoGlGdTnJsAcPHdrBNpctrgjlmMJX0xhA==",
+  "success": true,
+  "projectFilePath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\03. Homework {Generics and Extension Methods}\\Homework {Generics and Extension Methods}\\Homework {Generics and Extension Methods}.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

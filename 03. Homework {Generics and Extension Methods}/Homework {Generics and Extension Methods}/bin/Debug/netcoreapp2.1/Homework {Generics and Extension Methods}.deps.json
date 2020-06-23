@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Homework {Generics and Extension Methods}/1.0.0": {
+        "runtime": {
+          "Homework {Generics and Extension Methods}.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework {Generics and Extension Methods}/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
