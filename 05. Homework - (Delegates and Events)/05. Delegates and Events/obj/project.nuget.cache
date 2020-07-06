@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K+0LKWfDKYPwsaBcnjZIIBqb7w6CzpunMx0SgVl9+w/LOjVTRyhYjCeqx4lXh/EF1OKghqE8CdPn9s8ASJ48uQ==",
+  "dgSpecHash": "Xfy/51eoL7ENBJ+rmNrBXOTsEr7Rcbbb5WY35COIV77mIfplJh9xcAzuOcfo1wD4Y8Ttoc4IbvvXg7DZp+WD1A==",
   "success": true,
-  "projectFilePath": "D:\\PRACTICE MAKE PERFECT\\C#\\G2\\Advanced C#\\05. Delegates and Events\\05. Delegates and Events\\05. Delegates and Events.csproj",
+  "projectFilePath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\05. Homework - (Delegates and Events)\\05. Delegates and Events\\05. Delegates and Events.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

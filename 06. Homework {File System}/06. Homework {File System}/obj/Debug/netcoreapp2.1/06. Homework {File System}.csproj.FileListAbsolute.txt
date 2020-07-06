@@ -1,0 +1,12 @@
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\Advanced C#  HOMEWORKS\06. Homework {File System}\06. Homework {File System}\bin\Debug\netcoreapp2.1\06. Homework {File System}.deps.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\Advanced C#  HOMEWORKS\06. Homework {File System}\06. Homework {File System}\bin\Debug\netcoreapp2.1\06. Homework {File System}.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\Advanced C#  HOMEWORKS\06. Homework {File System}\06. Homework {File System}\bin\Debug\netcoreapp2.1\06. Homework {File System}.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\Advanced C#  HOMEWORKS\06. Homework {File System}\06. Homework {File System}\bin\Debug\netcoreapp2.1\06. Homework {File System}.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\Advanced C#  HOMEWORKS\06. Homework {File System}\06. Homework {File System}\bin\Debug\netcoreapp2.1\06. Homework {File System}.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\Advanced C#  HOMEWORKS\06. Homework {File System}\06. Homework {File System}\obj\Debug\netcoreapp2.1\06. Homework {File System}.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\Advanced C#  HOMEWORKS\06. Homework {File System}\06. Homework {File System}\obj\Debug\netcoreapp2.1\06. Homework {File System}.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\Advanced C#  HOMEWORKS\06. Homework {File System}\06. Homework {File System}\obj\Debug\netcoreapp2.1\06. Homework {File System}.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\Advanced C#  HOMEWORKS\06. Homework {File System}\06. Homework {File System}\obj\Debug\netcoreapp2.1\06. Homework {File System}.csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\Advanced C#  HOMEWORKS\06. Homework {File System}\06. Homework {File System}\obj\Debug\netcoreapp2.1\06. Homework {File System}.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\Advanced C#  HOMEWORKS\06. Homework {File System}\06. Homework {File System}\obj\Debug\netcoreapp2.1\06. Homework {File System}.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\Advanced C#  HOMEWORKS\06. Homework {File System}\06. Homework {File System}\obj\Debug\netcoreapp2.1\06. Homework {File System}.genruntimeconfig.cache

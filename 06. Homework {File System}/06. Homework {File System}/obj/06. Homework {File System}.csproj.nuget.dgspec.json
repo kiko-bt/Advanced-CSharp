@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\05. Homework - (Delegates and Events)\\SubscriptionModel\\SubscriptionModel.csproj": {}
+    "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\06. Homework {File System}\\06. Homework {File System}\\06. Homework {File System}.csproj": {}
   },
   "projects": {
-    "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\05. Homework - (Delegates and Events)\\SubscriptionModel\\SubscriptionModel.csproj": {
+    "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\06. Homework {File System}\\06. Homework {File System}\\06. Homework {File System}.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\05. Homework - (Delegates and Events)\\SubscriptionModel\\SubscriptionModel.csproj",
-        "projectName": "SubscriptionModel",
-        "projectPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\05. Homework - (Delegates and Events)\\SubscriptionModel\\SubscriptionModel.csproj",
+        "projectUniqueName": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\06. Homework {File System}\\06. Homework {File System}\\06. Homework {File System}.csproj",
+        "projectName": "06. Homework {File System}",
+        "projectPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\06. Homework {File System}\\06. Homework {File System}\\06. Homework {File System}.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\05. Homework - (Delegates and Events)\\SubscriptionModel\\obj\\",
+        "outputPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\06. Homework {File System}\\06. Homework {File System}\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRACTICE MAKE PERFECT\\C#\\G2\\Advanced C#\\05. Delegates and Events\\05. Delegates and Events\\05. Delegates and Events.csproj": {}
+    "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\05. Homework - (Delegates and Events)\\05. Delegates and Events\\05. Delegates and Events.csproj": {}
   },
   "projects": {
-    "D:\\PRACTICE MAKE PERFECT\\C#\\G2\\Advanced C#\\05. Delegates and Events\\05. Delegates and Events\\05. Delegates and Events.csproj": {
+    "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\05. Homework - (Delegates and Events)\\05. Delegates and Events\\05. Delegates and Events.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRACTICE MAKE PERFECT\\C#\\G2\\Advanced C#\\05. Delegates and Events\\05. Delegates and Events\\05. Delegates and Events.csproj",
+        "projectUniqueName": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\05. Homework - (Delegates and Events)\\05. Delegates and Events\\05. Delegates and Events.csproj",
         "projectName": "05. Delegates and Events",
-        "projectPath": "D:\\PRACTICE MAKE PERFECT\\C#\\G2\\Advanced C#\\05. Delegates and Events\\05. Delegates and Events\\05. Delegates and Events.csproj",
+        "projectPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\05. Homework - (Delegates and Events)\\05. Delegates and Events\\05. Delegates and Events.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\PRACTICE MAKE PERFECT\\C#\\G2\\Advanced C#\\05. Delegates and Events\\05. Delegates and Events\\obj\\",
+        "outputPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\05. Homework - (Delegates and Events)\\05. Delegates and Events\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

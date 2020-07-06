@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRACTICE MAKE PERFECT\\C#\\G2\\Advanced C#\\05. Delegates and Events\\SubscriptionModel\\SubscriptionModel.csproj",
+      "projectUniqueName": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\05. Homework - (Delegates and Events)\\SubscriptionModel\\SubscriptionModel.csproj",
       "projectName": "SubscriptionModel",
-      "projectPath": "D:\\PRACTICE MAKE PERFECT\\C#\\G2\\Advanced C#\\05. Delegates and Events\\SubscriptionModel\\SubscriptionModel.csproj",
+      "projectPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\05. Homework - (Delegates and Events)\\SubscriptionModel\\SubscriptionModel.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\PRACTICE MAKE PERFECT\\C#\\G2\\Advanced C#\\05. Delegates and Events\\SubscriptionModel\\obj\\",
+      "outputPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\05. Homework - (Delegates and Events)\\SubscriptionModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
