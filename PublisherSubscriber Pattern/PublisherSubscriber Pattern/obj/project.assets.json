@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hristijan\\Desktop\\PublisherSubscriber Pattern\\PublisherSubscriber Pattern\\PublisherSubscriber Pattern.csproj",
+      "projectUniqueName": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\PublisherSubscriber Pattern\\PublisherSubscriber Pattern\\PublisherSubscriber Pattern.csproj",
       "projectName": "PublisherSubscriber Pattern",
-      "projectPath": "C:\\Users\\Hristijan\\Desktop\\PublisherSubscriber Pattern\\PublisherSubscriber Pattern\\PublisherSubscriber Pattern.csproj",
+      "projectPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\PublisherSubscriber Pattern\\PublisherSubscriber Pattern\\PublisherSubscriber Pattern.csproj",
       "packagesPath": "C:\\Users\\Hristijan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hristijan\\Desktop\\PublisherSubscriber Pattern\\PublisherSubscriber Pattern\\obj\\",
+      "outputPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\PublisherSubscriber Pattern\\PublisherSubscriber Pattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hristijan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,10 +8,9 @@ namespace PublisherSubscriber_Pattern
     {
         Random rng = new Random();
 
-
         public event EventHandler<ShotsFiredEventArgs> ShotsFired;
 
-        public Dictionary<string, string> Names { get; set; }
+        public Dictionary<string, string> Names { get; set; } 
 
 
         public Shooter(Dictionary<string, string> names)

@@ -730,7 +730,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {}
+    "C:\\Users\\Hristijan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -738,11 +738,11 @@
       "projectUniqueName": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\07. Homework (Serializing and Deserializing)\\Homework (Serializing and Deserializing)\\Homework (Serializing and Deserializing).csproj",
       "projectName": "Homework (Serializing and Deserializing)",
       "projectPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\07. Homework (Serializing and Deserializing)\\Homework (Serializing and Deserializing)\\Homework (Serializing and Deserializing).csproj",
-      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Hristijan\\.nuget\\packages\\",
       "outputPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\07. Homework (Serializing and Deserializing)\\Homework (Serializing and Deserializing)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hristijan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -754,6 +754,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "projectReferences": {}
         }
       },
@@ -765,6 +766,7 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
@@ -787,7 +789,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

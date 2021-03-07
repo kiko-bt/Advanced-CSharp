@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "jEiB2HahwJeiFDnCsUbJKPgYwj0p8EniDyfEbHBLVGOZHXPDkUBismDPID65b9dVD/IZx4FWP5ghGVdDFaUWlw==",
+  "dgSpecHash": "P9KDbtFQZO9cJXnII/OEAmunmAM3s4lhpor/BhPjG/V7w4w3V8mtpE5GhI8nyB+oWHKvy2Ge955aLH5pjsgufw==",
   "success": true,
-  "projectFilePath": "D:\\PRACTICE MAKE PERFECT\\C#\\Advanced C#\\01. Exercise (Abstract Classes and Interfaces)\\01. Exercise (Abstract Classes and Interfaces)\\01. Exercise (Abstract Classes and Interfaces).csproj",
+  "projectFilePath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\Advanced C#  HOMEWORKS\\01. Exercise (Abstract Classes and Interfaces)\\01. Exercise (Abstract Classes and Interfaces)\\01. Exercise (Abstract Classes and Interfaces).csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Hristijan\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Hristijan\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Hristijan\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Hristijan\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Hristijan\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Hristijan\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Hristijan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
